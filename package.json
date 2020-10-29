@@ -1,0 +1,20 @@
+{
+  "name": "node-express-rest",
+  "version": "1.0.0",
+  "description": "Template for express REST api",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dem1se",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {}
+}
